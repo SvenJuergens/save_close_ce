@@ -6,6 +6,7 @@ services:
 
   Goran\SaveCloseCe\:
     resource: '../Classes/*'
+
   Goran\SaveCloseCe\Provider\SaveCloseProvider:
     tags:
       - name: event.listener

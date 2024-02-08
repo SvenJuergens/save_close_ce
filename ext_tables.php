@@ -1,4 +1,5 @@
 <?php
+
 defined('TYPO3') or die();
 
 if (version_compare(\TYPO3\CMS\Core\Utility\VersionNumberUtility::getNumericTypo3Version(), '12.0.0', '<=')) {

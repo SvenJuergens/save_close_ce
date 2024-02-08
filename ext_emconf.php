@@ -27,5 +27,5 @@ $EM_CONF[$_EXTKEY] = [
                 [],
         ],
     'clearcacheonload' => false,
-    'author_company' => NULL,
+    'author_company' => null,
 ];
